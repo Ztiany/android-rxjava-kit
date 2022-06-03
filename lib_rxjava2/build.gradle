@@ -49,6 +49,11 @@ dependencies {
     api "com.uber.autodispose:autodispose-android:1.4.0"
     api "com.uber.autodispose:autodispose-lifecycle:1.4.0"
     api "com.uber.autodispose:autodispose-android-archcomponents:1.4.0"
+    
+    //https://github.com/uber/RxDogTag
+    //api "com.uber.rxdogtag:rxdogtag:0.2.0"
+    //https://github.com/JakeWharton/RxRelay
+    //api "com.jakewharton.rxrelay2:rxrelay:2.1.1"
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.6.0"
     implementation "com.jakewharton.timber:timber:4.7.1"
